@@ -19,8 +19,8 @@ Email Address : sh007100@naver.com
 - minSdkVersion : 28
 - targetSdkVersion : 31
 
-## Libraris
-- Coroutines, Retrofit2, OkHttp, AAC, Glide
+## Skills
+- MVVM, Coroutines, Retrofit2, OkHttp, AAC, Glide
 
 ## screenshot
 
